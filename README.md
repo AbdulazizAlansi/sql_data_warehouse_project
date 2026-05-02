@@ -58,7 +58,7 @@ Everything is for Free!
 - **[pgAdmin](https://www.pgadmin.org/):** Web-based graphical interface for managing and interacting with PostgreSQL databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion
+- **[Notion](https://www.notion.com/desktop):** Download Notion for desktop
 - **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2f6eb0144a1880e0a09fc282578f7754?source=copy_link):** Access to All Project Phases and Tasks.
 
 
